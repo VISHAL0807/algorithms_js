@@ -1,2 +1,2 @@
 # algorithms_js
-Leetcode questions solutions in JS
+Leetcode questions' solutions in JS
